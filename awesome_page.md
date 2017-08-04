@@ -6,6 +6,6 @@
 
 **This is Katy**
 
-("Click here")[www.google.com]
+["Click here"](www.google.com)
 
-!("Screenshot of our hangout")[gps.png]
+!["Screenshot of our hangout"](gps.png)
